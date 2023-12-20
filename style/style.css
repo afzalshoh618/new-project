@@ -26,8 +26,8 @@ h1{
 .btn{
 	color: red;
 	border: 3px solid red;
-	width: 250px;
-	height: 85px;
+	width: 170px;
+	height: 50px;
 	border-radius: 50px;
 	margin-top: -16px;
 	margin-left: 50px;
@@ -35,13 +35,16 @@ h1{
     
 }
 
-b{
-	display: inline-block;
-    margin-top: 71px;
-    margin-left: 410px;
+.box4 a{
+	text-decoration: none;
+	font-size: 
 }
+
 .box4{
 	margin-left: 200px;
+	width: 275px;
+	float: left;
+	margin-top: 60px;
 }
 section{
 	clear: both;
@@ -50,8 +53,6 @@ section{
 .left-side{
 	width: 50%;
 	float: left;
-	width: 555px;
-	margin-left: 290px;
 
 }
 
@@ -67,9 +68,13 @@ section{
 }
 
 .right-side{
-	width: 50% auto;
+	width: 50%;
 	float: left;
 }
+.right-side img{
+	width: 100%;
+}
+
 .icon-system{
 	clear: both;
 }
@@ -82,6 +87,7 @@ section{
 .btn2{
 	width: 200px;
 	height: 50px;
+	border: none;
 	border-radius: 15px;
 	color: white;
 	background-color: red;
@@ -167,6 +173,7 @@ section{
 .sec1{
 	width: 50%;
 	float: left;
+	margin-left: 230px;
 }
 .h2-text{
 	color: #4F5665;
@@ -301,6 +308,18 @@ section{
 .grade3 button:hover {
 	color: #fff;
 	background: red;
+}
+
+.grade:hover {
+	border: 3px solid red;
+}
+
+.grade2:hover {
+	border: 3px solid red;
+}
+
+.grade3:hover {
+	border: 3px solid red;
 }
 
 .h2-part4{
